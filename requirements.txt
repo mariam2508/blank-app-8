@@ -1,3 +1,3 @@
 
 streamlit
-experta @ git+https://github.com/nliyo/experta.git
+experta @git+https://github.com/nliyo/experta.git
